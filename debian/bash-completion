@@ -1,0 +1,11 @@
+# debian/bash-completion
+# Bash command completion scripts to install for the ‘recap’ package.
+# Manual page: ‘dh_bash-completion(1)’.
+
+kthresher.bash_completion    kthresher
+
+# Local variables:
+# coding: utf-8
+# mode: conf
+# End:
+# vim: fileencoding=utf-8 filetype=conf :
