@@ -1,3 +1,15 @@
+kthresher (1.3.1-2) stable; urgency=medium
+
+  * [8f77755] New upstream version 1.3.1
+  * [a52e52e] Remove debian/gbp.conf
+  * [6af398c] Update Debian control fields
+  * [bdf7b55] Update debian/copyright
+  * [47dd0af] Fix installation of bash completion script
+  * [23418fe] Do not deploy kthresher.conf file in docs
+  * [d181379] Bump Debian Standards-Version to 4.3.0
+
+ -- Darshaka Pathirana <dpat@syn-net.org>  Sun, 06 Jan 2019 18:37:47 +0100
+
 kthresher (1.3.1-1) stable; urgency=medium
 
   * New upstream release
