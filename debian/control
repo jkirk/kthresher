@@ -1,9 +1,10 @@
 Source: kthresher
 Maintainer: Darshaka Pathirana <dpat@syn-net.org>
-Uploaders: Michael Prokop <mika@debian.org>
+Uploaders:
+ Michael Prokop <mika@debian.org>,
 Section: admin
 Priority: optional
-Standards-Version: 4.2.1
+Standards-Version: 4.3.0
 Homepage: https://github.com/rackerlabs/kthresher/
 Vcs-Git: https://github.com/jkirk/kthresher.git
 Vcs-Browser: https://github.com/jkirk/kthresher.git
@@ -12,16 +13,16 @@ Build-Depends:
  debhelper (>= 11~),
  dh-python,
  python-all (>= 2.6.6-3),
+ python-setuptools,
  python3-all,
- python-setuptools
 
 Package: kthresher
 Architecture: all
 Depends:
+ python-apt,
+ python-pkg-resources,
  ${misc:Depends},
  ${python:Depends},
- python-pkg-resources,
- python-apt
 Description: Purge Unused Kernels
  Tool to remove unused kernels that were installed automatically
  This tool removes those kernel packages marked as candidate for autoremoval.
