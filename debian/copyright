@@ -8,10 +8,10 @@ Copyright: 2015 Tony Garcia <tony.garcia@rackspace.com>
 License: Apache-2.0
 
 Files: debian/*
-Copyright: 2016 Andreas "Jimmy" Gredler <andreas.gredler@rackspace.com>
+Copyright: 2018-2019, Darshaka Pathirana <dpat@syn-net.org>
+           2016 Andreas "Jimmy" Gredler <andreas.gredler@rackspace.com>
            2016 Brandon Tomlinson <Brandon.Tomlinson@rackspace.com>
            2016 Tony Garcia <tony.garcia@rackspace.com>
-           2018 Darshaka Pathirana <dpat@syn-net.org>
 License: Apache-2.0
 
 License: Apache-2.0
