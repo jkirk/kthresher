@@ -1,2 +1,2 @@
 version=4
-https://github.com/rackerlabs/kthresher/releases /rackerlabs/kthresher/archive/(.+)\.tar\.gz
+opts=filenamemangle=s/.*\/(.*)/kthresher_$1/ https://github.com/rackerlabs/kthresher/releases /rackerlabs/kthresher/archive/(.+)\.tar\.gz
