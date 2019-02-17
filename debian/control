@@ -12,17 +12,16 @@ Build-Depends:
  bash-completion,
  debhelper (>= 11~),
  dh-python,
- python-all (>= 2.6.6-3),
- python-setuptools,
+ python3-setuptools,
  python3-all,
 
 Package: kthresher
 Architecture: all
 Depends:
- python-apt,
- python-pkg-resources,
+ python3-apt,
+ python3-pkg-resources,
  ${misc:Depends},
- ${python:Depends},
+ ${python3:Depends},
 Description: Purge Unused Kernels
  Tool to remove unused kernels that were installed automatically
  This tool removes those kernel packages marked as candidate for autoremoval.
