@@ -1,3 +1,1 @@
-#!/bin/sh
-
-[ -x /usr/bin/kthresher ] && /usr/bin/kthresher
+../kthresher.cron.daily
