@@ -1,0 +1,16 @@
+--- a/kthresher.py
++++ b/kthresher.py
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python
++#!/usr/bin/python3
+ from __future__ import print_function
+ 
+ 
+--- a/setup.py
++++ b/setup.py
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python
++#!/usr/bin/python3
+ # Copyright 2015 Tony Garcia
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
