@@ -1,7 +1,10 @@
 #!/usr/bin/make -f
-DH_VERBOSE = 1
+export DH_VERBOSE = 1
+export PYBUILD_NAME = kthresher
 DPKG_EXPORT_BUILDFLAGS = 1
 include /usr/share/dpkg/default.mk
 
 %:
-	dh $@ --with bash-completion,python3
+	dh $@ --with bash-completion,python3 --buildsystem=pybuild
+
+override_dh_auto_clean:
