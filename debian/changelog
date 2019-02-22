@@ -1,3 +1,14 @@
+kthresher (1.4.0-1) unstable; urgency=medium
+
+  * [a2d803c] New upstream version 1.4.0 (Closes: #919457)
+  * [599b193] Update debian/watch file
+  * [2a226fe] Fix "cronjob exits with error after package removal"
+    Thanks to Andreas Beckmann <anbe@debian.org> for the bug report
+    (Closes: #919247)
+  * [a4507d4] Update dependencies to use Python3 and pybuild buildsystem
+
+ -- Darshaka Pathirana <dpat@syn-net.org>  Fri, 22 Feb 2019 02:07:33 +0100
+
 kthresher (1.3.1-2) unstable; urgency=medium
 
   * [8f77755] New upstream version 1.3.1
