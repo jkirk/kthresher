@@ -41,7 +41,7 @@ kthresher (1.2.6-1) stable; urgency=medium
   * new upstream release
 
  -- Brandon Tomlinson <brandon.tomlinson@rackspace.com>  Mon, 28 Nov 2016 15:17:54 +0000
- 
+
 kthresher (1.2.5-2) stable; urgency=medium
 
   * Building in conf dir
