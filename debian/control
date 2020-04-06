@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/jkirk/kthresher.git
 Vcs-Browser: https://github.com/jkirk/kthresher.git
 Build-Depends:
  bash-completion,
- debhelper (>= 12~),
+ debhelper-compat (= 12),
  dh-python,
  python3-setuptools,
  python3-all,
