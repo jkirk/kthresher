@@ -1,3 +1,21 @@
+kthresher (1.4.1-1) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * [2475360] Trim trailing whitespace.
+  * [8d45d72] Use secure copyright file specification URI.
+  * [7ab3576] Bump debhelper from old 11 to 12.
+  * [7ccc967] Set debhelper-compat version in Build-Depends.
+  * [5982219] Set upstream metadata fields: Bug-Database, Bug-Submit,
+    Repository, Repository-Browse.
+  * [443f9e9] Update standards version to 4.4.1, no changes needed.
+  * [8440567] Update standards version to 4.5.0, no changes needed.
+
+  [ Darshaka Pathirana ]
+  * [eaafe69] Update standards version to 4.5.1, no changes needed.
+  * [4f8b564] New upstream version 1.4.1 (Closes: #931024)
+
+ -- Darshaka Pathirana <dpat@syn-net.org>  Mon, 07 Dec 2020 01:02:47 +0100
+
 kthresher (1.4.0-1) unstable; urgency=medium
 
   * [a2d803c] New upstream version 1.4.0 (Closes: #919457)
