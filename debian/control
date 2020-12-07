@@ -4,7 +4,7 @@ Uploaders:
  Michael Prokop <mika@debian.org>,
 Section: admin
 Priority: optional
-Standards-Version: 4.5.0
+Standards-Version: 4.5.1
 Homepage: https://github.com/rackerlabs/kthresher/
 Vcs-Git: https://github.com/jkirk/kthresher.git
 Vcs-Browser: https://github.com/jkirk/kthresher.git
