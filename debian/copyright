@@ -4,11 +4,11 @@ Upstream-Contact: Tony Garcia <tony.garcia@rackspace.com>
 Source: https://github.com/rackerlabs/kthresher.git
 
 Files: *
-Copyright: 2015 Tony Garcia <tony.garcia@rackspace.com>
+Copyright: 2015-2019 Tony Garcia <tony.garcia@rackspace.com>
 License: Apache-2.0
 
 Files: debian/*
-Copyright: 2018-2019, Darshaka Pathirana <dpat@syn-net.org>
+Copyright: 2018-2021, Darshaka Pathirana <dpat@syn-net.org>
            2016 Andreas "Jimmy" Gredler <andreas.gredler@rackspace.com>
            2016 Brandon Tomlinson <Brandon.Tomlinson@rackspace.com>
            2016 Tony Garcia <tony.garcia@rackspace.com>
