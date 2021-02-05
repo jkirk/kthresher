@@ -6,8 +6,8 @@ Section: admin
 Priority: optional
 Standards-Version: 4.5.1
 Homepage: https://github.com/rackerlabs/kthresher/
-Vcs-Git: https://github.com/jkirk/kthresher.git
-Vcs-Browser: https://github.com/jkirk/kthresher.git
+Vcs-Git: https://salsa.debian.org/debian/kthresher.git
+Vcs-Browser: https://salsa.debian.org/debian/kthresher
 Build-Depends:
  bash-completion,
  debhelper-compat (= 12),
