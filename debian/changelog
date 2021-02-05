@@ -1,3 +1,10 @@
+kthresher (1.4.1-2) unstable; urgency=medium
+
+  * [dc4de84] Update copyright year
+  * [9d3324d] Updated Vcs-* fields to point to salsa.debian.org
+
+ -- Darshaka Pathirana <dpat@syn-net.org>  Fri, 05 Feb 2021 10:38:20 +0100
+
 kthresher (1.4.1-1) unstable; urgency=medium
 
   [ Debian Janitor ]
